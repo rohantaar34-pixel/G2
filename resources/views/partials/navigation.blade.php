@@ -8,7 +8,7 @@
     </div>
 
     <div class="ml-auto h-full flex items-center justify-center">
-        <a href=""
+        <a href="{{ route('login') }}"
             class="hover:-translate-y-1 ease-out transition delay-75 text-white font-semibold hover:text-lumot">User
             Login</a>
     </div>
